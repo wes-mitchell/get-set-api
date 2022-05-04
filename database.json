@@ -1,0 +1,341 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Wes Mitchell",
+      "email": "wmdrums@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "John Bonham",
+      "email": "john@bonham.com"
+    },
+    {
+      "email": "jimi@hendrix.com",
+      "name": "Jimi Hendrix",
+      "id": 3
+    }
+  ],
+  "setLists": [
+    {
+      "userId": 1,
+      "title": "Garment Setlist",
+      "notes": "example notes edited",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Penicillin Baby",
+      "notes": "Record Store Day Gig",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "title": "Bully edited",
+      "notes": "Shaky Knees",
+      "id": 6
+    },
+    {
+      "userId": 2,
+      "title": "Zep in 80",
+      "notes": "Madsion Sq garden",
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "title": "Bully",
+      "notes": "Festival thang",
+      "id": 9
+    },
+    {
+      "userId": 3,
+      "title": "Woodstock",
+      "notes": "subject to change",
+      "id": 10
+    }
+  ],
+  "setListTracks": [
+    {
+      "id": 2,
+      "setListId": 1,
+      "songId": 2
+    },
+    {
+      "setListId": 5,
+      "songId": 13,
+      "id": 4
+    },
+    {
+      "setListId": 5,
+      "songId": 15,
+      "id": 5
+    },
+    {
+      "setListId": 5,
+      "songId": 16,
+      "id": 6
+    },
+    {
+      "setListId": 6,
+      "songId": 14,
+      "id": 12
+    },
+    {
+      "setListId": 6,
+      "songId": 15,
+      "id": 13
+    },
+    {
+      "setListId": 1,
+      "songId": 19,
+      "id": 17
+    },
+    {
+      "setListId": 8,
+      "songId": 38,
+      "id": 22
+    },
+    {
+      "setListId": 8,
+      "songId": 30,
+      "id": 23
+    },
+    {
+      "setListId": 8,
+      "songId": 37,
+      "id": 24
+    },
+    {
+      "setListId": 9,
+      "songId": 9,
+      "id": 27
+    },
+    {
+      "setListId": 9,
+      "songId": 12,
+      "id": 28
+    },
+    {
+      "setListId": 9,
+      "songId": 14,
+      "id": 29
+    },
+    {
+      "setListId": 9,
+      "songId": 20,
+      "id": 31
+    },
+    {
+      "setListId": 9,
+      "songId": 7,
+      "id": 32
+    },
+    {
+      "setListId": 10,
+      "songId": 40,
+      "id": 33
+    }
+  ],
+  "songs": [
+    {
+      "name": "The Ocean",
+      "bpm": 95,
+      "notes": "example notes",
+      "runTime": "3:25",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "End Of Me",
+      "bpm": 200,
+      "notes": "Lay back, not so bouncy",
+      "runTime": "3:50",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "name": "Always Turn It Up",
+      "bpm": 90,
+      "notes": "Play it real loud",
+      "runTime": "3:09",
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "name": "Honey Money",
+      "bpm": 135,
+      "notes": "Lil Shuffle, ya dig",
+      "runTime": "3:34",
+      "userId": 1,
+      "id": 8
+    },
+    {
+      "name": "Salads & Greens",
+      "bpm": 75,
+      "notes": "It really is a song about salads",
+      "runTime": "2:59",
+      "userId": 1,
+      "id": 9
+    },
+    {
+      "name": "Dominos",
+      "bpm": 140,
+      "notes": "Stay in the pocket / lay back",
+      "runTime": "1:48",
+      "userId": 1,
+      "id": 10
+    },
+    {
+      "name": "I Can't Stop This Way I'm Feeling",
+      "bpm": 130,
+      "notes": "Make sure to rip your drum fills in the intro / actual tempo is double time 130",
+      "runTime": "1:24",
+      "userId": 1,
+      "id": 11
+    },
+    {
+      "name": "Stacks",
+      "bpm": 170,
+      "notes": "Play aggressively and loud",
+      "runTime": "1:59",
+      "userId": 1,
+      "id": 12
+    },
+    {
+      "name": "Not Getting Any Younger",
+      "bpm": 180,
+      "notes": "Keep feel in center of the beat",
+      "runTime": "3:44",
+      "userId": 1,
+      "id": 13
+    },
+    {
+      "name": "Stand On My Own",
+      "bpm": 160,
+      "notes": "Keep feel in the center",
+      "runTime": "3:49",
+      "userId": 1,
+      "id": 14
+    },
+    {
+      "name": "Stick It Out",
+      "bpm": 161,
+      "notes": "Single, make sure it's locked in",
+      "runTime": "3:33",
+      "userId": 1,
+      "id": 15
+    },
+    {
+      "name": "Working Man",
+      "bpm": 182,
+      "notes": "Play aggressively",
+      "runTime": "4:14",
+      "userId": 1,
+      "id": 16
+    },
+    {
+      "name": "Stuck In Your Head",
+      "bpm": 178,
+      "notes": "Watch transition from verse to choruse",
+      "runTime": "2:08",
+      "userId": 1,
+      "id": 18
+    },
+    {
+      "name": "Trash",
+      "bpm": 98,
+      "notes": "Lay Back / Beat up them drums",
+      "runTime": "3:58",
+      "userId": 1,
+      "id": 19
+    },
+    {
+      "name": "Add It On",
+      "bpm": 200,
+      "notes": "Starts on upbeat of 4",
+      "runTime": "3:20",
+      "userId": 1,
+      "id": 20
+    },
+    {
+      "name": "I Remember",
+      "bpm": 170,
+      "notes": "Rip Em / FFF all the way through",
+      "runTime": "1:47",
+      "userId": 1,
+      "id": 21
+    },
+    {
+      "name": "Come Down",
+      "bpm": 75,
+      "notes": "Don't forget HH Tambo",
+      "runTime": "4:12",
+      "userId": 1,
+      "id": 22
+    },
+    {
+      "name": "You",
+      "bpm": 126,
+      "notes": "Don't miss your lead in / Notes to sound personnel to turn monitor up here",
+      "runTime": "2:24",
+      "userId": 1,
+      "id": 23
+    },
+    {
+      "name": "Trying",
+      "bpm": 120,
+      "notes": "Don't Rush",
+      "runTime": "3:53",
+      "userId": 1,
+      "id": 24
+    },
+    {
+      "name": "Immigrant Song",
+      "bpm": 145,
+      "notes": "This track rips",
+      "runTime": "3:20",
+      "userId": 2,
+      "id": 30
+    },
+    {
+      "name": "test track edited",
+      "bpm": 125,
+      "notes": "test edited track notes",
+      "runTime": "2:45",
+      "userId": 1,
+      "id": 32
+    },
+    {
+      "name": "Rambo",
+      "bpm": 134,
+      "notes": "This song rips",
+      "runTime": "2:30",
+      "userId": 2,
+      "id": 37
+    },
+    {
+      "name": "Hank Hillbilly",
+      "bpm": 134,
+      "notes": "Country",
+      "runTime": "3:34",
+      "userId": 2,
+      "id": 38
+    },
+    {
+      "name": "Immigrant Song",
+      "bpm": 120,
+      "notes": "This is the single, make it rip",
+      "runTime": "3:20",
+      "userId": 1,
+      "id": 39
+    },
+    {
+      "name": "Foxey Lady",
+      "bpm": 98,
+      "notes": "Agressive",
+      "runTime": "3:18",
+      "userId": 3,
+      "id": 40
+    }
+  ]
+}
