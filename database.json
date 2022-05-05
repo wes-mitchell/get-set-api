@@ -19,47 +19,60 @@
   "setLists": [
     {
       "userId": 1,
-      "title": "Garment Setlist",
-      "notes": "example notes edited",
-      "id": 1
-    },
-    {
-      "userId": 1,
       "title": "Penicillin Baby",
-      "notes": "Record Store Day Gig",
+      "notes": "Record Store Day 2023",
       "id": 5
     },
     {
       "userId": 1,
-      "title": "Bully edited",
-      "notes": "Shaky Knees",
-      "id": 6
-    },
-    {
-      "userId": 2,
-      "title": "Zep in 80",
-      "notes": "Madsion Sq garden",
-      "id": 8
-    },
-    {
-      "userId": 1,
       "title": "Bully",
-      "notes": "Festival thang",
+      "notes": "Shaky Knees",
       "id": 9
     },
     {
       "userId": 3,
       "title": "Woodstock",
-      "notes": "subject to change",
+      "notes": "8/18/1969",
       "id": 10
+    },
+    {
+      "userId": 3,
+      "title": "Woodstock After Party",
+      "notes": "VIP's only",
+      "id": 11
+    },
+    {
+      "userId": 3,
+      "title": "Isle of Wright",
+      "notes": "Festival Setlist",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Megajoos",
+      "notes": "Tour De Fun",
+      "id": 13
+    },
+    {
+      "userId": 2,
+      "title": "Led Zeppelin",
+      "notes": "Madison Square Garden Gig",
+      "id": 14
+    },
+    {
+      "userId": 2,
+      "title": "Led Zeppelin",
+      "notes": "Royal Albert Hall",
+      "id": 15
+    },
+    {
+      "userId": 2,
+      "title": "The Yardbirds",
+      "notes": "Hometown Hall",
+      "id": 16
     }
   ],
   "setListTracks": [
-    {
-      "id": 2,
-      "setListId": 1,
-      "songId": 2
-    },
     {
       "setListId": 5,
       "songId": 13,
@@ -76,64 +89,329 @@
       "id": 6
     },
     {
-      "setListId": 6,
-      "songId": 14,
-      "id": 12
-    },
-    {
-      "setListId": 6,
-      "songId": 15,
-      "id": 13
-    },
-    {
-      "setListId": 1,
-      "songId": 19,
-      "id": 17
-    },
-    {
-      "setListId": 8,
-      "songId": 38,
-      "id": 22
-    },
-    {
-      "setListId": 8,
-      "songId": 30,
-      "id": 23
-    },
-    {
-      "setListId": 8,
-      "songId": 37,
-      "id": 24
-    },
-    {
-      "setListId": 9,
-      "songId": 9,
-      "id": 27
-    },
-    {
-      "setListId": 9,
-      "songId": 12,
-      "id": 28
-    },
-    {
-      "setListId": 9,
-      "songId": 14,
-      "id": 29
-    },
-    {
       "setListId": 9,
       "songId": 20,
       "id": 31
     },
     {
-      "setListId": 9,
-      "songId": 7,
-      "id": 32
+      "setListId": 10,
+      "songId": 41,
+      "id": 33
+    },
+    {
+      "setListId": 10,
+      "songId": 47,
+      "id": 34
+    },
+    {
+      "setListId": 10,
+      "songId": 48,
+      "id": 35
     },
     {
       "setListId": 10,
       "songId": 40,
-      "id": 33
+      "id": 36
+    },
+    {
+      "setListId": 10,
+      "songId": 43,
+      "id": 37
+    },
+    {
+      "setListId": 10,
+      "songId": 52,
+      "id": 38
+    },
+    {
+      "setListId": 10,
+      "songId": 49,
+      "id": 40
+    },
+    {
+      "setListId": 10,
+      "songId": 42,
+      "id": 41
+    },
+    {
+      "setListId": 10,
+      "songId": 51,
+      "id": 42
+    },
+    {
+      "setListId": 10,
+      "songId": 46,
+      "id": 44
+    },
+    {
+      "setListId": 11,
+      "songId": 41,
+      "id": 46
+    },
+    {
+      "setListId": 11,
+      "songId": 48,
+      "id": 47
+    },
+    {
+      "setListId": 11,
+      "songId": 40,
+      "id": 48
+    },
+    {
+      "setListId": 11,
+      "songId": 50,
+      "id": 49
+    },
+    {
+      "setListId": 11,
+      "songId": 46,
+      "id": 50
+    },
+    {
+      "setListId": 12,
+      "songId": 41,
+      "id": 51
+    },
+    {
+      "setListId": 12,
+      "songId": 40,
+      "id": 52
+    },
+    {
+      "setListId": 12,
+      "songId": 52,
+      "id": 53
+    },
+    {
+      "setListId": 12,
+      "songId": 44,
+      "id": 54
+    },
+    {
+      "setListId": 12,
+      "songId": 42,
+      "id": 55
+    },
+    {
+      "setListId": 12,
+      "songId": 51,
+      "id": 56
+    },
+    {
+      "setListId": 12,
+      "songId": 50,
+      "id": 57
+    },
+    {
+      "setListId": 12,
+      "songId": 45,
+      "id": 58
+    },
+    {
+      "setListId": 9,
+      "songId": 21,
+      "id": 59
+    },
+    {
+      "setListId": 9,
+      "songId": 19,
+      "id": 60
+    },
+    {
+      "setListId": 9,
+      "songId": 24,
+      "id": 61
+    },
+    {
+      "setListId": 9,
+      "songId": 23,
+      "id": 62
+    },
+    {
+      "setListId": 13,
+      "songId": 7,
+      "id": 63
+    },
+    {
+      "setListId": 13,
+      "songId": 10,
+      "id": 64
+    },
+    {
+      "setListId": 13,
+      "songId": 8,
+      "id": 65
+    },
+    {
+      "setListId": 13,
+      "songId": 11,
+      "id": 66
+    },
+    {
+      "setListId": 13,
+      "songId": 9,
+      "id": 67
+    },
+    {
+      "setListId": 13,
+      "songId": 12,
+      "id": 68
+    },
+    {
+      "setListId": 5,
+      "songId": 14,
+      "id": 69
+    },
+    {
+      "setListId": 9,
+      "songId": 22,
+      "id": 70
+    },
+    {
+      "setListId": 14,
+      "songId": 56,
+      "id": 71
+    },
+    {
+      "setListId": 14,
+      "songId": 65,
+      "id": 72
+    },
+    {
+      "setListId": 14,
+      "songId": 64,
+      "id": 73
+    },
+    {
+      "setListId": 14,
+      "songId": 59,
+      "id": 74
+    },
+    {
+      "setListId": 14,
+      "songId": 60,
+      "id": 75
+    },
+    {
+      "setListId": 14,
+      "songId": 66,
+      "id": 76
+    },
+    {
+      "setListId": 14,
+      "songId": 54,
+      "id": 77
+    },
+    {
+      "setListId": 14,
+      "songId": 62,
+      "id": 78
+    },
+    {
+      "setListId": 14,
+      "songId": 57,
+      "id": 79
+    },
+    {
+      "setListId": 14,
+      "songId": 58,
+      "id": 80
+    },
+    {
+      "setListId": 14,
+      "songId": 61,
+      "id": 81
+    },
+    {
+      "setListId": 15,
+      "songId": 56,
+      "id": 82
+    },
+    {
+      "setListId": 15,
+      "songId": 60,
+      "id": 83
+    },
+    {
+      "setListId": 15,
+      "songId": 66,
+      "id": 84
+    },
+    {
+      "setListId": 15,
+      "songId": 57,
+      "id": 85
+    },
+    {
+      "setListId": 15,
+      "songId": 58,
+      "id": 86
+    },
+    {
+      "setListId": 15,
+      "songId": 61,
+      "id": 87
+    },
+    {
+      "setListId": 15,
+      "songId": 53,
+      "id": 88
+    },
+    {
+      "setListId": 15,
+      "songId": 63,
+      "id": 89
+    },
+    {
+      "setListId": 15,
+      "songId": 55,
+      "id": 90
+    },
+    {
+      "setListId": 16,
+      "songId": 56,
+      "id": 91
+    },
+    {
+      "setListId": 16,
+      "songId": 59,
+      "id": 92
+    },
+    {
+      "setListId": 16,
+      "songId": 60,
+      "id": 93
+    },
+    {
+      "setListId": 16,
+      "songId": 66,
+      "id": 94
+    },
+    {
+      "setListId": 16,
+      "songId": 54,
+      "id": 95
+    },
+    {
+      "setListId": 16,
+      "songId": 62,
+      "id": 96
+    },
+    {
+      "setListId": 16,
+      "songId": 58,
+      "id": 97
+    },
+    {
+      "setListId": 16,
+      "songId": 63,
+      "id": 98
+    },
+    {
+      "setListId": 16,
+      "songId": 55,
+      "id": 99
     }
   ],
   "songs": [
@@ -291,38 +569,6 @@
     },
     {
       "name": "Immigrant Song",
-      "bpm": 145,
-      "notes": "This track rips",
-      "runTime": "3:20",
-      "userId": 2,
-      "id": 30
-    },
-    {
-      "name": "test track edited",
-      "bpm": 125,
-      "notes": "test edited track notes",
-      "runTime": "2:45",
-      "userId": 1,
-      "id": 32
-    },
-    {
-      "name": "Rambo",
-      "bpm": 134,
-      "notes": "This song rips",
-      "runTime": "2:30",
-      "userId": 2,
-      "id": 37
-    },
-    {
-      "name": "Hank Hillbilly",
-      "bpm": 134,
-      "notes": "Country",
-      "runTime": "3:34",
-      "userId": 2,
-      "id": 38
-    },
-    {
-      "name": "Immigrant Song",
       "bpm": 120,
       "notes": "This is the single, make it rip",
       "runTime": "3:20",
@@ -336,6 +582,214 @@
       "runTime": "3:18",
       "userId": 3,
       "id": 40
+    },
+    {
+      "name": "All Along the WatchTower",
+      "bpm": 113,
+      "notes": "Don't Rush",
+      "runTime": "4:00",
+      "userId": 3,
+      "id": 41
+    },
+    {
+      "name": "Purple Haze",
+      "bpm": 108,
+      "notes": "Laid back feel",
+      "runTime": "3:50",
+      "userId": 3,
+      "id": 42
+    },
+    {
+      "name": "Hey Joe",
+      "bpm": 157,
+      "notes": "Key of E Major",
+      "runTime": "3:30",
+      "userId": 3,
+      "id": 43
+    },
+    {
+      "name": "Little Wing",
+      "bpm": 71,
+      "notes": "Mellow Vibe ",
+      "runTime": "2:25",
+      "userId": 3,
+      "id": 44
+    },
+    {
+      "name": "Voodoo Chile",
+      "bpm": 176,
+      "notes": "G# Ab major ",
+      "runTime": "5:13",
+      "userId": 3,
+      "id": 45
+    },
+    {
+      "name": "The Wind Cries Mary",
+      "bpm": 80,
+      "notes": "F Major",
+      "runTime": "3:20",
+      "userId": 3,
+      "id": 46
+    },
+    {
+      "name": "Castles Made of Sand",
+      "bpm": 88,
+      "notes": "Key of A with minor mode",
+      "runTime": "2:48",
+      "userId": 3,
+      "id": 47
+    },
+    {
+      "name": "Fire",
+      "bpm": 172,
+      "notes": "Driving ",
+      "runTime": "2:43",
+      "userId": 3,
+      "id": 48
+    },
+    {
+      "name": "Manic Depression",
+      "bpm": 150,
+      "notes": "3/4 meter",
+      "runTime": "3:42",
+      "userId": 3,
+      "id": 49
+    },
+    {
+      "name": "Stone Free",
+      "bpm": 136,
+      "notes": "F# Major",
+      "runTime": "3:35",
+      "userId": 3,
+      "id": 50
+    },
+    {
+      "name": "Red House",
+      "bpm": 53,
+      "notes": "6/8 blues vibe",
+      "runTime": "3:50",
+      "userId": 3,
+      "id": 51
+    },
+    {
+      "name": "If 6 was 9",
+      "bpm": 144,
+      "notes": "Ab Major",
+      "runTime": "5:34",
+      "userId": 3,
+      "id": 52
+    },
+    {
+      "name": "Stairway to Heaven",
+      "bpm": 82,
+      "notes": "Take a nap at the beginning",
+      "runTime": "8:02",
+      "userId": 2,
+      "id": 53
+    },
+    {
+      "name": "Immigrant Song",
+      "bpm": 112,
+      "notes": "Driving and Aggressive",
+      "runTime": "2:26",
+      "userId": 2,
+      "id": 54
+    },
+    {
+      "name": "Whole Lotta Love",
+      "bpm": 88,
+      "notes": "Swung type  feel",
+      "runTime": "5:33",
+      "userId": 2,
+      "id": 55
+    },
+    {
+      "name": "Black Dog",
+      "bpm": 81,
+      "notes": "Move to bell in chorus",
+      "runTime": "4:55",
+      "userId": 2,
+      "id": 56
+    },
+    {
+      "name": "Ramble On",
+      "bpm": 99,
+      "notes": "Listen for gtr instrumental before lead in",
+      "runTime": "4:23",
+      "userId": 2,
+      "id": 57
+    },
+    {
+      "name": "Rock and Roll",
+      "bpm": 172,
+      "notes": "Intro starts on pickup note",
+      "runTime": "3:40",
+      "userId": 2,
+      "id": 58
+    },
+    {
+      "name": "Going to California",
+      "bpm": 78,
+      "notes": "Tacet / Grab a bevvy",
+      "runTime": "3:32",
+      "userId": 2,
+      "id": 59
+    },
+    {
+      "name": "Good Times Bad Times",
+      "bpm": 93,
+      "notes": "Cowbell in intro",
+      "runTime": "2:46",
+      "userId": 2,
+      "id": 60
+    },
+    {
+      "name": "Since I've Been Loving You",
+      "bpm": 115,
+      "notes": "Slow 6/8",
+      "runTime": "8:01",
+      "userId": 2,
+      "id": 61
+    },
+    {
+      "name": "Moby Dick",
+      "bpm": 112,
+      "notes": "You've got a big drum solo / duh",
+      "runTime": "19:24",
+      "userId": 2,
+      "id": 62
+    },
+    {
+      "name": "The Ocean",
+      "bpm": 89,
+      "notes": "Verse has bar of 7/8 in phrase",
+      "runTime": "4:21",
+      "userId": 2,
+      "id": 63
+    },
+    {
+      "name": "Dazed and Confused",
+      "bpm": 86,
+      "notes": "3/4 meter",
+      "runTime": "6:28",
+      "userId": 2,
+      "id": 64
+    },
+    {
+      "name": "Communication Breakdown",
+      "bpm": 175,
+      "notes": "swung 6/8 feel",
+      "runTime": "6:26",
+      "userId": 2,
+      "id": 65
+    },
+    {
+      "name": "I Can't Quit You Baby",
+      "bpm": 80,
+      "notes": "3/4 meter with swung feel",
+      "runTime": "4:42",
+      "userId": 2,
+      "id": 66
     }
   ]
 }
